@@ -1,0 +1,12 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE & Tools
+.vscode/
+.idea/
+.qodo/
+
+# Dependencies & Logs
+node_modules/
+*.log
